@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" align="left"> <kbd><br>just bought this tapeworm from etsy!<br>&nbsp;  </kbd> </p>
 
-<p align="right"> <img src="https://shishka.neocities.org/shishka/img/icons/222.png" align="right"> <kbd align="right"><br>where are you gonna keep it?<br>&nbsp;  </kbd></p>
+<p align="right"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/yusuke.png" align="right"> <kbd align="right"><br>Where are you going to keep it?<br>&nbsp;  </kbd></p>
 
 <p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" align="left"> <kbd><br> :) <br>&nbsp;  </kbd> </p>
 <details><summary> ${\textsf{\color{#00F71E}——————————————————————————}}$ 
