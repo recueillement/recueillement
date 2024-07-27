@@ -1,4 +1,4 @@
-<img src="https://files.catbox.moe/okf29a.gif" width="50%" align="left">
+<img src="https://files.catbox.moe/okf29a.gif" width="498" height="498" align="left">
 <!-- make sure gif you're using has the right dimensions. make sure to leave transparent space to the right. -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71E&repeat=false&width=235&lines=SMS+%E2%80%A2+FUTABA+SAKURA">
