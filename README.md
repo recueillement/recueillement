@@ -13,8 +13,8 @@
 <li>test</li>
 <li>test</li>
 <li>test</li>
-<li>test</li>  
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=usernamehere&color=008C0D&style=for-the-badge&label=HACKED:"></p>
 </details>
- <p align="center"><img src="https://komarev.com/ghpvc/?username=usernamehere&color=008C0D&style=for-the-badge&label=HACKED:"></p>
+
 
 <a href="https://github.com/shinminase/marquee"> <img src="https://github.com/shinminase/shinminase/blob/main/images/svg/blinkiemarquee.svg"></img> </a>
