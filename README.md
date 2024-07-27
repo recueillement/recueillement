@@ -16,7 +16,7 @@
 
 <details>
   <!-- replace the #00F71E with any other hex color-->
- <summary> ${\textsf{\color{#00F71E}——————————————————————————}}$ 
+ <summary> ${\textsf{\color{#00F71E}—————————————————————————}}$ 
  <br> ${\textsf{\color{#00F71E}click for more info}}$ 
  <br>
 
@@ -35,3 +35,4 @@
 <li>test</li>
 </details>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=usernamehere&color=008C0D&style=for-the-badge&label=HACKED:"></p>
