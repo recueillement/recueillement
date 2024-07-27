@@ -1,6 +1,7 @@
 <img src="https://files.catbox.moe/okf29a.gif" width="50%" align="left">
 
-### replace this with an animated svg
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71E&repeat=false&width=235&lines=Talking+to+FUTABA...">
+
 
 <p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" align="left"> <kbd><br>just bought this tapeworm from etsy!<br>&nbsp;  </kbd> </p>
 
