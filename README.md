@@ -1,4 +1,7 @@
 ## boogie-woogie
+
+
+<img src="https://images-ext-1.discordapp.net/external/ii9ozbHknvzwsU9KDIwC1kKzalrhWYK2vNE7BS8u-rQ/https/cdn.pluralkit.me/images/72/vmxgr663oe2rshicxkye6uee.webp?format=webp">
 <!--
 **recueillement/recueillement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
