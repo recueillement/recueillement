@@ -3,7 +3,7 @@
 
 <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/yeah.png" align="left">
 
-<kbd> <img src="https://shishka.neocities.org/shishka/img/icons/222.png" align="left"> seriously howd you find this</kbd>
+<img src="https://shishka.neocities.org/shishka/img/icons/222.png" align="left"> <kbd><br>seriously howd you find this<br>&nbsp;  </kbd>
 
 <!--
 **recueillement/recueillement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
