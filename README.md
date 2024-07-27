@@ -1,6 +1,6 @@
 <img src="https://files.catbox.moe/okf29a.gif" width="50%" align="left">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&repeat=false&pause=1000&color=00F71E&width=235&lines=SMS+%7C+FUTABA+SAKURA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71E&repeat=false&width=235&lines=SMS+%E2%80%A2+FUTABA+SAKURA">
 
 
 <p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" align="left"> <kbd><br>just bought this tapeworm from etsy!<br>&nbsp;  </kbd> </p>
