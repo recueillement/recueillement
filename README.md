@@ -8,8 +8,7 @@
 <p align="right"> <img src="https://shishka.neocities.org/shishka/img/icons/222.png" align="right"> <kbd align="right"><br>where are you gonna keep it?<br>&nbsp;  </kbd></p>
 
 <p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" align="left"> <kbd><br> :) <br>&nbsp;  </kbd> </p>
-
-<p align="right"> <img src="https://shishka.neocities.org/shishka/img/icons/222.png" align="right"> <kbd align="right"><br>i don't like this post very much<br>&nbsp;  </kbd></p>
+<details><summary> ${\textsf{\color{#00F71E}——————————————————————————}}$ </summary></details>
 
 
 <a href="https://github.com/shinminase/marquee"> <img src="https://github.com/shinminase/shinminase/blob/main/images/svg/blinkiemarquee.svg"></img> </a>
