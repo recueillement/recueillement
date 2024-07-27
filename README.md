@@ -1,9 +1,11 @@
-## boogie-woogie
-
-
 <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/yeah.png" align="left">
 
-<img src="https://shishka.neocities.org/shishka/img/icons/222.png" align="left"> <kbd><br>seriously howd you find this<br>&nbsp;  </kbd>
+## replace this with an animated svg
+
+<p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" align="left"> <kbd><br>text goes here<br>&nbsp;  </kbd> </p>
+
+<p align="right"> <img src="https://shishka.neocities.org/shishka/img/icons/222.png" align="right"> <kbd align="right"><br>text goes here<br>&nbsp;  </kbd></p>
+<p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" align="left"> <kbd><br>text goes here<br>&nbsp;  </kbd> </p>
 
 <!--
 **recueillement/recueillement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
