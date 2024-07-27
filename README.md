@@ -9,10 +9,7 @@
 
 <p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" align="left"> <kbd><br> :) <br>&nbsp;  </kbd> </p>
 <details><summary> ${\textsf{\color{#00F71E}——————————————————————————}}$ <br> ${\textsf{\color{#00F71E}click for more info}}$ </summary>
-<li>
-  <a href="#">link 1</a>, <a href="#">link 2</a>, <a href="#">link 3</a>
-</li>
-  
+ <p align="center"> <a href="#">link 1</a>, <a href="#">link 2</a>, <a href="#">link 3</a> </p>
 <li>test</li>
 <li>test</li>
 <li>test</li>
