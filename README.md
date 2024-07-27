@@ -1,23 +1,40 @@
 <img src="https://files.catbox.moe/okf29a.gif" width="50%" align="left">
+<!-- make sure gif you're using has the right dimensions. make sure to leave transparent space to the right. -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71E&repeat=false&width=235&lines=SMS+%E2%80%A2+FUTABA+SAKURA">
+<!-- if u plan on replacing this, go to https://readme-typing-svg.herokuapp.com/demo/ - but make sure you set the width at 235! -->
 
 
-<p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" align="left"> <kbd><br>just bought this tapeworm from etsy!<br>&nbsp;  </kbd> </p>
+<!-- dialog 1 , make sure ur icon pngs are 50x50 -->
+<p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" width="50" height="50" align="left"> <kbd><br>just bought this tapeworm from etsy!<br>&nbsp;  </kbd> </p>
 
-<p align="right"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/yusuke.png" align="right"> <kbd align="right"><br>Where are you going to keep it?<br>&nbsp;  </kbd></p>
+<!-- dialog 2 -->
+<p align="right"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/yusuke.png" width="50" height="50" align="right"> <kbd align="right"><br>Where are you going to keep it?<br>&nbsp;  </kbd></p>
 
-<p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" align="left"> <kbd><br> :) <br>&nbsp;  </kbd> </p>
-<details><summary> ${\textsf{\color{#00F71E}——————————————————————————}}$ 
+<!-- dialog 3 -->
+<p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" width="50" height="50" align="left"> <kbd><br> :) <br>&nbsp;  </kbd> </p>
+
+<details>
+  <!-- replace the #00F71E with any other hex color-->
+ <summary> ${\textsf{\color{#00F71E}——————————————————————————}}$ 
  <br> ${\textsf{\color{#00F71E}click for more info}}$ 
  <br>
- <p align="center"> <a href="#">link 1</a>, <a href="#">link 2</a>, <a href="#">link 3</a> </p></summary>
 
+ <!-- replace hashtag with actual links-->  
+ <p align="center"> 
+ <a href="#">link 1</a>, 
+ <a href="#">link 2</a>, 
+ <a href="#">link 3</a> 
+ </p>
+
+</summary>
+
+ <!-- add extra information here --> 
 <li>test</li>
 <li>test</li>
 <li>test</li>
 </details>
+
+ <!-- optional, add a marquee. link has a tutorial on how to set up your own marquee -->
   <p align="center"><img src="https://komarev.com/ghpvc/?username=usernamehere&color=008C0D&style=for-the-badge&label=HACKED:"></p>
-
-
 <a href="https://github.com/shinminase/marquee"> <img src="https://github.com/shinminase/shinminase/blob/main/images/svg/blinkiemarquee.svg"></img> </a>
