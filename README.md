@@ -1,9 +1,11 @@
 ## boogie-woogie
 
 
-<img src="https://images-ext-1.discordapp.net/external/ii9ozbHknvzwsU9KDIwC1kKzalrhWYK2vNE7BS8u-rQ/https/cdn.pluralkit.me/images/72/vmxgr663oe2rshicxkye6uee.webp?format=webp" width="45%" align="right"> 
-
 <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/yeah.png" align="left">
+
+<p align="center"> <img src="https://adriansblinkiecollection.neocities.org/buttons/a1.gif"><br>
+waow... howd u find this</p>
+
 <!--
 **recueillement/recueillement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
