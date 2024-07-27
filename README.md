@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/iXCDlT-J1fcAAAAC/persona5-futaba-sakura.gif" align="left">
+<img src="https://media.tenor.com/iXCDlT-J1fcAAAAC/persona5-futaba-sakura.gif" width="50%" align="left">
 
 ### replace this with an animated svg
 
