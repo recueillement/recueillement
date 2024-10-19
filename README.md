@@ -2,7 +2,6 @@
 <img src="https://github.com/serphentized/serphentized/blob/main/images/test.svg">
 
 <hr>
-
 <img src="https://files.catbox.moe/okf29a.gif" width="50%" height="50%" align="right">
 <!-- make sure gif you're using has the right dimensions (it has to be a square, equal width and height) make sure to leave transparent space to the right. -->
 
@@ -11,13 +10,13 @@
 
 
 <!-- dialog 1 , make sure ur icon pngs are 50x50 -->
-<p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" width="50" height="50" align="left"> <kbd><br>just bought this tapeworm from etsy!<br>&nbsp;  </kbd> </p>
+<p align="left"> <img src="https://files.catbox.moe/9csauy.png" width="50" height="50" align="left"> <kbd><br>hope this hurts<br>&nbsp;  </kbd> </p>
 
 <!-- dialog 2 -->
-<p align="right"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/yusuke.png" width="50" height="50" align="right"> <kbd align="right"><br>Where are you going to keep it?<br>&nbsp;  </kbd></p>
+<p align="right"> <img src="https://files.catbox.moe/ytsx5o.png" width="50" height="50" align="right"> <kbd align="right"><br>what<br>&nbsp;  </kbd></p>
 
 <!-- dialog 3 -->
-<p align="left"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/taba" width="50" height="50" align="left"> <kbd><br> :) <br>&nbsp;  </kbd> </p>
+<p align="left"> <img src="https://files.catbox.moe/9csauy.png" width="50" height="50" align="left"> <kbd><br> :) <br>&nbsp;  </kbd> </p>
 
 <details>
   <!-- replace the #00F71E with any other hex color-->
