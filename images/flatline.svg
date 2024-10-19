@@ -1,6 +1,5 @@
 <svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
-  
     svg {
       width: 100vw;
       height: auto;
@@ -23,15 +22,11 @@
       fill: white;
     }
     .quotetext {
-    font-size: 2.5px;
-    font-family: "Times New Roman", Times, serif;
-    fill: white;
-    font-style: italic;
+      font-size: 2.5px;
+      font-family: "Times New Roman", Times, serif;
+      fill: white;
+      font-style: italic;
     }
-    .heart {
-      transform-origin: center;
-    }
-    
   </style>
 
   <!-- Flatline path -->
@@ -61,23 +56,20 @@
     />
   </rect>
 
-  
-  <!-- Text inside the box -->
-  <text class="text" x="55" y="12.5" opacity="0">
-    <animate 
-      attributeName="opacity" 
-      from="0" 
-      to="1" 
-      dur="1s" 
-      begin="1s" 
-      fill="freeze"
-    />
-    REDACTED
+  <!-- Text Path for Typing Effect -->
+  <path id="typingPath" d="M 55,12 H 85" /> <!-- Adjusted width to 85 for better fit -->
+
+  <!-- Text inside the box with typing effect -->
+  <text class="text" font-size="5" fill="white">
+    <textPath xlink:href="#typingPath" startOffset="-100%">
+      <animate attributeName="startOffset" from="-100%" to="0%" dur="4s" fill="freeze" />
+      REDACTED
+    </textPath>
   </text>
 
-    <!-- Quote Box -->
- <rect class="text-box" x="0" y="22" width="52" height="4">
- </rect>
+  <!-- Quote Box -->
+  <rect class="text-box" x="0" y="22" width="52" height="4">
+  </rect>
 
   <!-- Quote Text -->
   <text class="quotetext" x="2" y="24.5">
