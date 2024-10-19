@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="100%" height="200">
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100">
   <!-- Flatline path -->
   <polyline 
-    points="0,100 50,100 70,50 90,150 110,100 150,100 170,100 190,50 210,100 250,100 600,100" 
+    points="0,12.5 7,12.5 10,6 13,19 16,12.5 22,12.5 25,12.5 28,6 31,12.5 37,12.5 115,12.5" 
     fill="none" 
     stroke="red" 
-    stroke-width="5"
+    stroke-width="0.5"
   >
     <animate
       attributeName="stroke-dasharray"
-      from="0,2000"
-      to="2000,0"
+      from="0,200"
+      to="200,0"
       dur="4s"
       repeatCount="1"
       fill="freeze"
     />
   </polyline>
 
-  <!-- Transparent text box (starts invisible, fades in after polyline animation finishes) -->
-  <rect x="200" y="60" rx="10" ry="10" width="200" height="80" fill="rgba(139,0,0,0.6)" opacity="0">
+  <!-- Transparent text box (scaled to fit smaller space) -->
+  <rect x="50" y="6" rx="1" ry="1" width="25" height="10" fill="rgba(139,0,0,0.6)" opacity="0">
     <animate 
       attributeName="opacity" 
       from="0" 
@@ -28,8 +28,8 @@
     />
   </rect>
   
-  <!-- Text inside the box (starts invisible, fades in with the box) -->
-  <text x="230" y="110" fill="white" font-size="24" font-family="Arial" font-weight="bold" opacity="0">
+  <!-- Text inside the box (scaled to fit smaller space) -->
+  <text x="53" y="13" fill="white" font-size="3" font-family="Arial" font-weight="bold" opacity="0">
     <animate 
       attributeName="opacity" 
       from="0" 
