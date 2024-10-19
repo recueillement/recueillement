@@ -11,15 +11,33 @@
       from="0,2000"
       to="2000,0"
       dur="4s"
-      repeatCount="indefinite"
+      repeatCount="1"
+      fill="freeze"
     />
   </polyline>
 
-  <!-- Transparent text box -->
-  <rect x="200" y="60" rx="10" ry="10" width="200" height="80" fill="rgba(139,0,0,0.6)" />
+  <!-- Transparent text box (starts invisible, fades in after polyline animation finishes) -->
+  <rect x="200" y="60" rx="10" ry="10" width="200" height="80" fill="rgba(139,0,0,0.6)" opacity="0">
+    <animate 
+      attributeName="opacity" 
+      from="0" 
+      to="1" 
+      dur="2s" 
+      begin="4s" 
+      fill="freeze"
+    />
+  </rect>
   
-  <!-- Text inside the box -->
-  <text x="230" y="110" fill="white" font-size="24" font-family="Arial" font-weight="bold">
+  <!-- Text inside the box (starts invisible, fades in with the box) -->
+  <text x="230" y="110" fill="white" font-size="24" font-family="Arial" font-weight="bold" opacity="0">
+    <animate 
+      attributeName="opacity" 
+      from="0" 
+      to="1" 
+      dur="2s" 
+      begin="4s" 
+      fill="freeze"
+    />
     name/text
   </text>
 </svg>
