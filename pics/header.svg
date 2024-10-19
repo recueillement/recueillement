@@ -1,14 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="100%" height="100">
-
-  <rect width="100%" height="100" fill="none"/>
-
-
-  <polyline fill="none" stroke="#e60000" stroke-width="5"
-    points="0,50 40,50 50,30 60,70 70,50 100,50 120,50 130,30 140,70 150,50 400,50">
-    <animate attributeName="stroke-dasharray" from="0,200" to="200,0" dur="2s" repeatCount="indefinite" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="100%" height="200">
+  <!-- Flatline path -->
+  <polyline 
+    points="0,100 50,100 70,50 90,150 110,100 150,100 170,100 190,50 210,100 250,100 600,100" 
+    fill="none" 
+    stroke="red" 
+    stroke-width="5"
+  >
+    <animate
+      attributeName="stroke-dasharray"
+      from="0,2000"
+      to="2000,0"
+      dur="4s"
+      repeatCount="indefinite"
+    />
   </polyline>
 
-  <text x="150" y="55" fill="white" font-size="20" font-family="Arial" dominant-baseline="middle" text-anchor="middle">
+  <!-- Transparent text box -->
+  <rect x="200" y="60" rx="10" ry="10" width="200" height="80" fill="rgba(139,0,0,0.6)" />
+  
+  <!-- Text inside the box -->
+  <text x="230" y="110" fill="white" font-size="24" font-family="Arial" font-weight="bold">
     name/text
   </text>
 </svg>
