@@ -39,4 +39,4 @@
 <li>test</li>
 </details>
  <!-- replace username and color and label --> 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=usernamehere&color=008C0D&style=for-the-badge&label=HACKED:"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=shinminase&color=9e0000&style=for-the-badge&label=MAIMED:"></p>
