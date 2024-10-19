@@ -5,7 +5,7 @@
 <img src="https://github.com/serphentized/serphentized/blob/main/images/hugh%20dancy.gif" width="50%" height="50%" align="right">
 <!-- make sure gif you're using has the right dimensions (it has to be a square, equal width and height) make sure to leave transparent space to the right. -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71E&repeat=false&width=235&lines=WIP">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9e0000&repeat=false&width=235&lines=WIP">
 <!-- if u plan on replacing this, go to https://readme-typing-svg.herokuapp.com/demo/ - but make sure you set the width at 235! -->
 
 
@@ -20,8 +20,8 @@
 
 <details>
   <!-- replace the #00F71E with any other hex color-->
- <summary> ${\textsf{\color{#00F71E}——————————————————————————}}$ 
- <br> ${\textsf{\color{#00F71E}click for more info}}$ 
+ <summary> ${\textsf{\color{#9e0000}——————————————————————————}}$ 
+ <br> ${\textsf{\color{#9e0000}click for more info}}$ 
  <br>
 
  <!-- replace hashtag with actual links-->  
