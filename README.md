@@ -2,7 +2,7 @@
 <img src="https://github.com/serphentized/serphentized/blob/main/images/test.svg">
 
 <hr>
-<img src="https://files.catbox.moe/okf29a.gif" width="50%" height="50%" align="right">
+<img src="https://github.com/serphentized/serphentized/blob/main/images/hugh%20dancy.gif" width="50%" height="50%" align="right">
 <!-- make sure gif you're using has the right dimensions (it has to be a square, equal width and height) make sure to leave transparent space to the right. -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71E&repeat=false&width=235&lines=WIP">
