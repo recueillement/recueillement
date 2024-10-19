@@ -21,7 +21,7 @@
 
 <details>
   <!-- replace the #00F71E with any other hex color-->
- <summary> <img src="https://files.catbox.moe/qsj47p.png">
+ <summary> ${\textsf{\color{#00F71E}——————————————————————————}}$ 
  <br> ${\textsf{\color{#00F71E}click for more info}}$ 
  <br>
 
