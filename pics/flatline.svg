@@ -23,6 +23,12 @@
       font-weight: bold;
       fill: white;
     }
+    .quotetext {
+    font-size: 3px;
+    font-family: "Times New Roman", Times, serif;
+    fill: white;
+    font-weight: bold;
+    }
     .heart {
       transform-origin: center;
     }
@@ -55,6 +61,7 @@
       fill="freeze"
     />
   </rect>
+
   
   <!-- Text inside the box -->
   <text class="text" x="55" y="12.5" opacity="0">
@@ -67,6 +74,15 @@
       fill="freeze"
     />
     REDACTED
+  </text>
+
+    <!-- Quote Box -->
+ <rect class="text-box" x="0" y="20" width="52" height="5">
+ </rect>
+
+  <!-- Quote Text -->
+  <text class="quotetext" x="2" y="24">
+    in my restless dream, i see that town.
   </text>
 
   <!-- Heart image -->
