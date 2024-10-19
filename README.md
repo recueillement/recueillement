@@ -1,4 +1,3 @@
-<h2> <a href="https://github.com/rykuzu/futaba-theme/blob/main/README.md">old layout</a> • the tento woods </h2>
 <img src="https://github.com/serphentized/serphentized/blob/main/images/test.svg">
 
 <hr>
@@ -34,9 +33,9 @@
 </summary>
 
  <!-- add extra information here --> 
-<li>test</li>
-<li>test</li>
-<li>test</li>
+<li>offtab 99% of the time, whisp to int</li>
+<li>i like sitting still and looking pretty</li>
+<li>if u miss the old layout this is temporary</li>
 </details>
  <!-- replace username and color and label --> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shinminase&color=9e0000&style=for-the-badge&label=MAIMED:"></p>
