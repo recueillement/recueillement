@@ -77,11 +77,11 @@
   </text>
 
     <!-- Quote Box -->
- <rect class="text-box" x="0" y="20" width="52" height="5">
+ <rect class="text-box" x="0" y="22" width="52" height="4">
  </rect>
 
   <!-- Quote Text -->
-  <text class="quotetext" x="2" y="24">
+  <text class="quotetext" x="2" y="24.5">
     in my restless dream, i see that town.
   </text>
 
