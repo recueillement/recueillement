@@ -1,6 +1,6 @@
 <!-- Get it? Cause redacted and red. -->
 
-<img src="images/flatline.svg">
+<img src="https://github.com/shinminase/shinminase/blob/main/images/flatline.svg">
 
 <hr>
 <img src="https://github.com/serphentized/serphentized/blob/main/images/hugh%20dancy.gif" width="50%" height="50%" align="right" alt="if you see this its not loaded properly">
@@ -46,7 +46,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shinminase&base=8000&color=9e0000&style=for-the-badge&label=YOU%20ARE%20VISITOR:"></p>
 
 <hr>
-<a href="https://github.com/shinminase/marquee"><img src="images/marquee/red.svg"></a>
+<a href="https://github.com/shinminase/marquee"><img src="https://github.com/shinminase/shinminase/blob/main/images/marquee/red.svg"></a>
 
 
 
